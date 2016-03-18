@@ -1,0 +1,41 @@
+img{ 
+    max-width:100%;
+    height:100%;
+    margin:auto;
+}
+#mg-wrapper{
+    width:100%;
+    max-width:1024px;
+    margin:auto;
+}
+#mg-contents{
+    position:relative;
+    padding-bottom:50%;
+    
+}
+#button-bucket, h1{
+    text-align:center;
+    margin:auto;
+    padding:2%;
+}
+#button-bucket .diff{
+    font-size: 60PX;
+    border-radius:20px;
+    
+}
+.counter, .diff{
+    text-align:center;
+    outline:0;
+    cursor:pointer;
+}
+#easy{
+    background-color:green;
+}
+#medium{
+    background-color:yellow;
+}
+#hard{
+  
+    background-color:red;
+    
+}
